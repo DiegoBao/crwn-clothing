@@ -1,5 +1,7 @@
 {
   "javascript.preferences.quoteStyle": "single",
   "prettier.jsxSingleQuote": true,
-  "prettier.singleQuote": true
+  "prettier.singleQuote": true,
+  "editor.fontFamily": "Operator Mono Lig, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true
 }
