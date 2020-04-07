@@ -2,6 +2,6 @@
   "javascript.preferences.quoteStyle": "single",
   "prettier.jsxSingleQuote": true,
   "prettier.singleQuote": true,
-  "editor.fontFamily": "Operator Mono Lig, Consolas, 'Courier New', monospace",
+  "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true
 }
